@@ -1,0 +1,25 @@
+{
+  "name": "DAM",
+  "logoURI": "https://raw.githubusercontent.com/solopang/bhipo/main/5.png",
+  "keywords": [
+      "DAM",
+      "DEFI",
+      "yield"
+    ],
+    "timestamp": "2021-1-27T13:14:19.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0x51c5c5c854200871c7b86b548f0945adc6d371fe",
+      "name": "DIAMOND Token",
+      "symbol": "DAM",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/solopang/bhipo/main/5.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
